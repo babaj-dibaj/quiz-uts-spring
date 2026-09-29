@@ -1,0 +1,13 @@
+JAWABAN SOAL 1: ANALISIS 5W SPRING FRAMEWORK
+
+1. What (Apa):
+Spring adalah framework berbasis Java untuk membangun aplikasi backend dan web secara terstruktur.
+
+2. Why (Kenapa):
+Karena mempermudah penulisan kode, membuat kode lebih rapi, dan memiliki fitur Dependency Injection.
+
+3. When (Kapan):
+Digunakan saat membangun aplikasi web skala menengah hingga besar atau membuat RESTful API.
+
+4. Who (Siapa):
+Diciptakan oleh Rod Johnson dan kini dikelola oleh VMware serta digunakan oleh banyak developer di seluruh dunia.
